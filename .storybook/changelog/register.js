@@ -1,3 +1,4 @@
+import React from "react";
 import addons from '@storybook/addons';
 
 import {Changelog} from './changelog';
